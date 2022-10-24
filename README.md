@@ -9,7 +9,7 @@
 
 ## 🧾 Sobre
 
-**Desafio-Rocketseat** Essa é uma série de desafios básicos para que você possa praticar seus conhecimentos em HTML. Recomendamos que você se cadastre no curso<a href="https://www.rocketseat.com.br/discover">Discover</a>.
+**Desafio-Rocketseat** Essa é uma série de desafios básicos para que você possa praticar seus conhecimentos em HTML. Recomendamos que você se cadastre no curso<a href="https://www.rocketseat.com.br/discover"> Discover</a>.
 
 <a href="https://app.rocketseat.com.br/discover/challenges/html-challenge">Desafio!!!</a>
 
