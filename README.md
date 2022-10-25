@@ -1,6 +1,6 @@
-# Desafio-Rocketseat
+# Desafios-Rocketseat
 
-1º Desafio HTML da Trilha Discover
+ Desafios da Trilha Discover
 
 <h1 align="center">
    <img src="/Assets/Imagens/rocket.png" alt="">
